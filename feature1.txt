@@ -2,3 +2,5 @@ def feature 1:
 	print"This is feature-1 branch."
 def newfunction:
 	print"This in new function in feature-1"
+def newFunction2:
+	print"This an exatra function"
